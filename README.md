@@ -1,0 +1,1 @@
+This repository contains answers to exercises from a book _Common LISP: A Gentle Introduction to Symbolic Computation_ by David S. Touretzky. The book's website is available at https://www.cs.cmu.edu/~dst/LispBook/
